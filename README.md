@@ -38,7 +38,7 @@ Building tools that are safe, simple, and functional.
 
 ## 📫 Contact
 
-- 💬 Telegram: [@LightMizu](https://t.me/LightMizu)
+- 💬 Telegram: [@CryptedFrame](https://t.me/CryptedFrame)
 - 🌐 GitHub: [github.com/LightMizu](https://github.com/LightMizu)
 
 ---
